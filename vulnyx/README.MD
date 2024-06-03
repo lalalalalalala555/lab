@@ -1,5 +1,5 @@
 
-```markdown
+```
 | Vm Name | Os Type | Getshell | Privilege | Remark |
 | --- | --- | --- | --- | --- | --- |
 | Lost | LINUX | 子域名爆破，sql注入 | 命令注入，lxd组提权 | 隧道搭建 |
